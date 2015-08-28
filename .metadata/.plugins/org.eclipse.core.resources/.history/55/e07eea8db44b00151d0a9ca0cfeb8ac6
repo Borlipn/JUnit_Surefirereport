@@ -1,0 +1,11 @@
+package core;
+
+
+public class App {
+	
+	public static String s = "Testing String";
+    public static void main( String[] args )
+    {
+        System.out.println( "JUnit test is succeed !! " );
+    }
+}
